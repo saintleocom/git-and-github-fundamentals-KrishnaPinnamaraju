@@ -1,0 +1,30 @@
+### Hi there 
+**Krishna Pinnamaraju**,
+- Born and completed my education till under graduation in India.
+- Then moved to United States for higher education, because United States is a land of opportunities and has the best education system.
+## Educational background:
+I am doing my master’s in computer science from Saint Leo University starting January 2022.
+Completed under graduation as an Electrical and communication engineering from India.
+## To reach me
+Mail: krishnaprasanth.pi@saintleo.edu
+
+Read More about me [My read me profile](https://github.com/KrishnaPinnamaraju)
+ ## Hobbies
+ - Playing Cricket
+ - Reading books
+ - Learning and implementing new things
+ - Cycling
+ - Cooking
+ ## Progress in course
+ - I have updated my information in my Github profile. So, that other people can know more about me.
+ - After that created a new repositories to store the updates about my changes in this course.
+  [The repositories to store the updates about my changes](https://github.com/KrishnaPinnamaraju/Exploring_features/edit/main/learning.md)
+ - Finally, to complete my assignment created a new file and entered the required data and raised pull request to submit my work to the main person or to Professor.
+ ## likes about this course
+ - Oraganizing and maintaining multiple users code with features like fork and branching is most interesting part of this course content.
+ ## Dislike
+ - I found this git hub version control system management is tricky and confusing. But after some learning it's very interesting.
+ ## What's confusing
+ - Few concepts while pushing code from Git to GitHub are confusing intially. Hope after some practice it will be clear.
+ ## Tools and content which i think requried in this course
+ - I am not very familiar with Github and the course. But, started learing and understanding the course day by day and it is more intresting.
